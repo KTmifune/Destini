@@ -1,3 +1,0 @@
-# Destini
-Game 
-Flutter App
